@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      madnaan3
+HostName                       ece-rschsrv01.ece.gatech.edu
+ProcessIdentifier              95142
+ProcessCreationTime_UTC        1573359881
+ProcessCreationTime_Readable   Sat Nov  9 23:24:41 2019 EST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /nethome/madnaan3/VLSI/ADN_LIB/CLA6_SLEEP_AD/schematic/sch.oa.cdslck
+TimeEditLocked                 Sat Nov  9 23:28:55 2019 EST
